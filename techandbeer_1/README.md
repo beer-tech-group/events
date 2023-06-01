@@ -2,7 +2,7 @@
 
 ## Event Informations
 
-- __Date__: 12 aprile 2023
+- __Date__: 12th april 2023
 - __Location__: Ballarak Magione, Via Castrofilippo, 20 - Palermo, Italy
 - __Event Type__: Tech & Beer, In person
 - __Sponsor__: Cloudmind
