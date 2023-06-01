@@ -1,4 +1,4 @@
-# First Tech & Beer by Beer Tech Group! 🎉
+# Second Tech & Beer by Beer Tech Group! 🎉
 
 ## Event Informations
 
