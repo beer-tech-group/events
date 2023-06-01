@@ -25,6 +25,7 @@ __Once we receive your pull request, we will review your changes and merge it in
 ## Events List
 
 - [Tech & Beer #1 - 12 April 2023](/techandbeer_1/README.md)
+- [Tech & Beer #2 - 31 May 2023](/techandbeer_21/README.md)
 
 ## Support or Contact
 
