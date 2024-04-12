@@ -7,7 +7,7 @@
 - __Event Type__: Tech & Beer, In person
 - __Sponsor__: [Edgemony](https://edgemony.com)
 - __Participants__: 45
-- __Speakers__: 3
+- __Speakers__: 4
 - __Agenda__:
   - 19:00 - 19:30 - Check-In & Introduction
   - 19:30 - 19:45 - Sponsor's Presentation (Edgemony)
@@ -17,7 +17,7 @@
   - 21:15 - Networking
 - __Photos__: [https://beertechgroup.net/events/tech-and-beer-3/](https://beertechgroup.net/events/tech-and-beer-3/)
 
-![poster](poster.png)
+![poster](poster.jpg)
 
 # Talks
 
