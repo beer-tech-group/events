@@ -10,6 +10,14 @@ To access to the event details, simply click on the folder that corresponds to t
 
 Inside each folder, you will find all the information about the event, the speakers and the talks.
 
+## Events List
+
+- [Tech & Beer #1 - 12 April 2023](/techandbeer_1/README.md)
+- [Tech & Beer #2 - 31 May 2023](/techandbeer_2/README.md)
+- [Tech & Beer #3 - 11th July 2023](/techandbeer_3/README.md)
+- [Tech & Beer #4 - 18th October 2023](/techandbeer_4/README.md)
+- [Tech & Beer #5 - 21st February 2024](/techandbeer_5/README.md)
+
 ## Contribution Guidelines
 
 We welcome contributions to this repository in the form of additional talk slides or corrections or improvements to existing information. To contribute, follow these steps:
@@ -21,14 +29,6 @@ We welcome contributions to this repository in the form of additional talk slide
 5. Create a pull request and provide a brief explanation of your changes.
 
 __Once we receive your pull request, we will review your changes and merge it into the repository if we find it relevant.__
-
-## Events List
-
-- [Tech & Beer #1 - 12 April 2023](/techandbeer_1/README.md)
-- [Tech & Beer #2 - 31 May 2023](/techandbeer_2/README.md)
-- [Tech & Beer #3 - 11th July 2023](/techandbeer_3/README.md)
-- [Tech & Beer #4 - 18th October 2023](/techandbeer_4/README.md)
-- [Tech & Beer #5 - 21st February 2024](/techandbeer_5/README.md)
 
 ## Support or Contact
 
