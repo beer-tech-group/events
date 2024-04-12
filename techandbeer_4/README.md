@@ -36,8 +36,10 @@
 
 - __Author__: Fabio Di Peri
 - __Description__: Introductory session on the (Virtual) Actor Model, a pattern for developing almost infinitely horizontally scalable cloud-native applications.
+- __Talk__: [Repository](https://github.com/kipters/beer-and-tech-4-slides/releases/tag/final)
 
 ## Cha-Ching Chronicles: the journey of our ADV stack transformation
 
 - __Author__: Fausto Napoli & Francesco Bonnì
-- __Description__: 
+- __Description__: Like many companies, we in Subito use advertising as a source of revenue, but it has always been a pain point when it comes to implementing and optimising it correctly. What did we do to improve the maintainability of our adv stack? How did these changes improve our revenues? We'll look into that, by talking about the issues we faced and the solutions we came up with, in this case study.
+- __Talk__: [PDF]()

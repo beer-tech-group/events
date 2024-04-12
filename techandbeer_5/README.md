@@ -42,4 +42,4 @@
 
 - __Author__: Fabio Di Peri
 - __Description__: Sessione introduttiva ai login passwordless, accennando a tecniche più tradizionali come i magic link ma concentrandosi di più sugli standard moderni come FIDO2 e WebAuthn (di cui le passkey sono un'implementazione)
-- __Talk__: 
+- __Talk__: [Slides](https://1drv.ms/p/s!AkJtT3OERARet9gfqG_hdWDmxlsj4A?e=QrEPEf)
