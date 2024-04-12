@@ -15,7 +15,7 @@
   - 20:10 - 20:40 - [Netlify: Deploying has never been easier (Gianluca La Manna)](#netlify-deploying-has-never-been-easier)
   - 20:40 - 21:10 - [Pest - Bring back the joy of testing in PHP (Claudio La Barbera)](#pest---bring-back-the-joy-of-testing-in-php)
   - 21:10 - Networking
-- __Photos__: [https://beertechgroup.net/events/tech-and-beer-1/](https://beertechgroup.net/events/tech-and-beer-1/)
+- __Photos__: [https://beertechgroup.net/events/tech-and-beer-2/](https://beertechgroup.net/events/tech-and-beer-2/)
 
 ![poster](poster.png)
 

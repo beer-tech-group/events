@@ -26,6 +26,7 @@ __Once we receive your pull request, we will review your changes and merge it in
 
 - [Tech & Beer #1 - 12 April 2023](/techandbeer_1/README.md)
 - [Tech & Beer #2 - 31 May 2023](/techandbeer_2/README.md)
+- [Tech & Beer #3 - 11th July 2023](/techandbeer_3/README.md)
 
 ## Support or Contact
 
