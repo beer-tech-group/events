@@ -12,8 +12,8 @@
   - 19:00 - 19:30 - Check-in and Introduction
   - 19:30 - 19:45 - [Sponsor's Presentation (Edgemony)](#sponsors-presentation)
   - 19:45 - 20:15 - [Database per service, shared instance or shared database? (Francesca Motisi)](#database-per-service-shared-instance-or-shared-database)
-  - 20:15 - 20:45 - [(Almost) infinitely scalable backends using Actors (Fabio Di Peri)]()
-  - 20:45 - 21:15 - [Cha-Ching Chronicles: the journey of our ADV stack transformation (Fausto Napoli & Francesco Bonnì)]()
+  - 20:15 - 20:45 - [(Almost) infinitely scalable backends using Actors (Fabio Di Peri)](#almost-infinitely-scalable-backends-using-actors)
+  - 20:45 - 21:15 - [Cha-Ching Chronicles: the journey of our ADV stack transformation (Fausto Napoli & Francesco Bonnì)](#cha-ching-chronicles-the-journey-of-our-adv-stack-transformation)
   - 21:15 - Networking
 - __Photos__: [https://beertechgroup.net/events/tech-and-beer-4/](https://beertechgroup.net/events/tech-and-beer-4/)
 
@@ -42,4 +42,4 @@
 
 - __Author__: Fausto Napoli & Francesco Bonnì
 - __Description__: Like many companies, we in Subito use advertising as a source of revenue, but it has always been a pain point when it comes to implementing and optimising it correctly. What did we do to improve the maintainability of our adv stack? How did these changes improve our revenues? We'll look into that, by talking about the issues we faced and the solutions we came up with, in this case study.
-- __Talk__: [PDF]()
+- __Talk__: [PDF](/techandbeer_4/ChaChing%20Chronicles:%20the%20journey%20of%20our%20ADV%20stack%20transformation.pdf)
