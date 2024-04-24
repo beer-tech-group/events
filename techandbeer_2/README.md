@@ -10,7 +10,7 @@
 - __Speakers__: 3
 - __Agenda__:
   - 19:30 - 19:35 - Introduction
-  - 19:35 - 19:40 - Sponsor's Presentation (PTER)
+  - 19:35 - 19:40 - [Sponsor's Presentation (PTER)](#sponsors-presentation)
   - 19:40 - 20:10 - [KMM + Compose - Multiplatform love (Fausto Napoli)](#kmm--compose---multiplatform-love)
   - 20:10 - 20:40 - [Netlify: Deploying has never been easier (Gianluca La Manna)](#netlify-deploying-has-never-been-easier)
   - 20:40 - 21:10 - [Pest - Bring back the joy of testing in PHP (Claudio La Barbera)](#pest---bring-back-the-joy-of-testing-in-php)
@@ -20,6 +20,11 @@
 ![poster](poster.png)
 
 # Talks
+
+## Sponsor's Presentation
+
+- __Author__: PTER
+- __Talk__: [PDF](/techandbeer_2/PTER.pdf)
 
 ## KMM + Compose - Multiplatform love
 
